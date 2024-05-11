@@ -39,3 +39,6 @@ A simple and secure random password generator built with React. This application
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
+![Alt text]('./sdfa.PNG)
